@@ -1,8 +1,3 @@
-Aquí tienes el contenido del archivo `README.txt`. Puedes copiarlo y pegarlo directamente en tu proyecto:
-
----
-
-```
 # Veterinaria JS
 
 Este proyecto es una aplicación backend sencilla desarrollada con **Node.js** para gestionar citas en una veterinaria. Permite registrar y leer citas almacenadas en un archivo JSON.
